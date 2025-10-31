@@ -16,7 +16,9 @@ An intelligent product recommendation system for quick commerce platforms, built
 
 ## Demo
 
-Try the live demo: [Coming Soon]
+<img width="1902" height="948" alt="image" src="https://github.com/user-attachments/assets/963ac219-6fa3-435d-b797-56038cc8a178" />
+<img width="1902" height="934" alt="image" src="https://github.com/user-attachments/assets/1c548e19-a351-40a9-b0d1-62355a48a354" />
+
 
 ## Architecture
 
